@@ -3,7 +3,9 @@ title: Home
 ---
 
 # Home
-
+This is the project website for Team 202 in EGR314, Embedded Systems Design 2
+at Arizona State University on the Polytechnic campus, in the Spring 2023
+ semester.
 ## Introduction
 
 **Bold Text**

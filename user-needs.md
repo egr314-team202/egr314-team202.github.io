@@ -1,8 +1,8 @@
-_**User Needs, Benchmarking, and Product Requirements**_
+# User Needs, Benchmarking, and Product Requirements
 
 In order to develop the requirements for the product, the team first analyzed the market for current solutions to the problem of accumulating moisture in confined spaces. A majority of the solutions were smart switches that revolved around bathrooms and smart technologies affecting the ventilation and temperature setting systems. The different solutions were analyzed and their top positive and negative reviews were recorded and then evaluated for explicit or latnent user needs. These user needs would then be used for benchmarking the product. Below are the 5 products that were analyzed along side important information and the user needs that were extracted form the positive and negative reviews.
 
-_**User Needs Evaluation**_
+## User Needs Evaluation
 
 Having gone through different products and customer reviews that target the product statement, Team 202 generated a combined list of User Needs. This list consists of features and needs that customers liked, asked for, or complained about in the product reviews regarding the different multifunction switches above. The generated User Needs can be found below in _**Figure 1**_.
 
@@ -35,7 +35,7 @@ Once the User Needs were sectioned off into different categories as seen in _**F
 </figure>
 
 
-_**Mega Needs**_
+## Mega Needs
 
 Below is a list of mega needs that the have been found from userr analysis. From these mega needs will stem requirments for our project design. All other user needs can be found in Product Analysis Appendix.
 

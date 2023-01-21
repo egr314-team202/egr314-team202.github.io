@@ -24,7 +24,7 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Design Ideation](design-ideation)
 ### [Presentation 1](presentation-1)
 ### [Appendix A: Team Organization](appendix-a-team-organization)
-### [Appendix B: Team Organization]()
+### [Appendix B: Team Organization](appendix-a-user-needs)
 ## Resources
 * [Code Repository](https://github.com/egr314-team202/project-code)
 ## Project Status

@@ -1,4 +1,7 @@
-_**#SONOFF NSPanel Wifi Smart Scene Wall Switch**_
+
+# Product 1
+
+## SONOFF NSPanel Wifi Smart Scene Wall Switch
 
 _**Keywords:**_ Temperature Light Switch
 
@@ -44,7 +47,9 @@ _**Negative Review User Needs:**_
 
 <br>
 
-_**#Honeywell Home RPLS740B ECONOswitch 7-Day Solar Programmable Switch**_
+# Product 2
+
+## Honeywell Home RPLS740B ECONOswitch 7-Day Solar Programmable Switch
 
 _**Keywords:**_ Smart Light Switch
 
@@ -90,7 +95,9 @@ _**Negative Review User Needs:**_
 
 <br>
 
-_**#DewStop FS-875-W1 Adjustable Multi Timer Bath Fan Timer Control With Light Control, White**_
+# Product 3
+
+## DewStop FS-875-W1 Adjustable Multi Timer Bath Fan Timer Control With Light Control, White
 
 _**Keywords:**_ bathrrom ffan timer and light switch combo
 
@@ -150,7 +157,9 @@ _**Negative Review User Needs:**_
 
 <br>
 
-_**#Brilliant Smart Home Control (1-Switch Panel) — Alexa Built-In & Compatible with Ring, Sonos, Hue, Google Nest, Wemo, SmartThings, Apple HomeKit — In-Wall Touchscreen Control for Lights, Music, & More**_
+# Product 4
+
+## Brilliant Smart Home Control (1-Switch Panel) — Alexa Built-In & Compatible with Ring, Sonos, Hue, Google Nest, Wemo, SmartThings, Apple HomeKit — In-Wall Touchscreen Control for Lights, Music, & More
 
 _**Keywords:**_ Smart Switch
 
@@ -220,7 +229,9 @@ _**Negative Review User Needs:**_
 
 <br>
 
-_**#ThermoPro TP49 Digital Indoor Humidity Meter Room Thermometer with Temperature and Humidity Monitor Mini Hygrometer Thermometer**_
+# Product 5
+
+## ThermoPro TP49 Digital Indoor Humidity Meter Room Thermometer with Temperature and Humidity Monitor Mini Hygrometer Thermometer
 
 _**Keywords:**_ humidity meter
 
@@ -266,7 +277,7 @@ The device should be easy to handle (latent).
 
 <br>
 
-**_*Other User needs Rated*_**
+## User Needs Rated
 
 _**Interface**_<br>
 ⭐⭐Built in timer for display

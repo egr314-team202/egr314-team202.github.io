@@ -1,0 +1,88 @@
+# Design Ideation
+
+Before continuing with the design process, the team took some time to brainstorm design concepts on a Jamboard. Each sticky note represented a way to execute a particular aspect of the design like a sensing method or actuation device as seen in **Figure 1**. The team decided it would be more effective to do individual brainstorming rather than group brainstorming due to the time constraints of the assignment as well as each team member having conflicting schedules. The brainstorming session of each member proved successful as each member contributed 25 distinct design ideas to the jamboard for a total of 100 different design ideas. Group brainstorming might have helped generate more unique ideas since members could bounce ideas off of one another and would have been the teams primary option. These ideas were then sorted down into several categories and distilled into three design concepts as seen in **Figure 2** and **Figure 3**. This process was completed by Carlos Chacon and Miguel Chacon. The concepts represented three unique ways to approach the user needs; each with a different combination of technical aspects and specific feature implementations. Finally, in order to best communicate these concepts, the team developed visual representations of them. These depictions will be used further on in the design process to gather feedback and inform future design decisions.
+
+### Step 1: Initial Brainstorming
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationStep1.png" width="100%"><br>
+  Figure 1 - List of 100 Design Ideas
+  </div>
+</figure>
+
+### Step 2: Grouped Design Concepts
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationStep2.png" width="100%"><br>
+  Figure 2 - Design concept ideas grouped with overarching concept idea marked in blue
+  </div>
+</figure>
+
+### Step 3: Product Concept Groups
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationStep3.png" width="100%"><br>
+  Figure 3 - Design concept ideas grouped with overarching concept idea marked in blue
+  </div>
+</figure>
+
+
+## Design Concepts
+
+After the team generated the three distinct design concept categories to approach the user needs, it was time to move onto the next step and create visual designs of the concepts in order to better understand how each device would function. This will be crucial as it will allow the team to make more thoughtful and practical decisions regarding which concept to choose and work on. 
+
+The three design concepts are as follows: a multipurpose smart switch (**Figure 4**), practical switch (**Figure 5.0- 5.1**), and energy conserver switch (**Figure 6.0-6.3**). Furthermore, each design concept includes arrows pointing to the concept ideas that were grouped with the design. Miguel Chacon designed the multipurpose switch, Lukas Severinghaus designed the practical switch, and Wyatt Ricks designed the energy conserver switch. 
+
+### Design 1
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationConcept1.png" width="100%"><br>
+  Figure 4 - Multipurpose Switch
+  </div>
+</figure>
+
+### Design 2
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationConcept2.png" width="100%"><br>
+  Figure 5.0 - Practical Switch
+  </div>
+</figure>
+
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationConcept2.1.png" width="100%"><br>
+  Figure 5.1 - Practical Switch (cont.)
+  </div>
+</figure>
+
+### Design 3
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationConcept3.png" width="100%"><br>
+  Figure 6.0 - Energy Conserver Switch
+  </div>
+</figure>
+
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationConcept3.1.png" width="100%"><br>
+  Figure 6.1 - Energy Conserver Switch (cont.)
+  </div>
+</figure>
+
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationConcept3.2.png" width="100%"><br>
+  Figure 6.2 - Energy Conserver Switch (cont.)
+  </div>
+</figure>
+
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/DesignIdeationConcept3.3.png" width="100%"><br>
+  Figure 6.3 - Energy Conserver Switch (cont.)
+  </div>
+</figure>
+
+[Back to Home](index)

@@ -316,6 +316,7 @@ Once the User Needs were sectioned off into different categories as seen in Figu
 3. Age friendly
 
 ⭐⭐⭐Kid friendly
+
 ⭐⭐⭐Safe for inexperienced users
 
 ⭐⭐⭐Child proof

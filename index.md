@@ -39,6 +39,10 @@ _Mission Statement_
 
 This team’s mission is to design and build a switch retrofit device that uses environmental sensing and embedded systems to provide an economic and health solution to solve the accumulation of moisture in confined spaces.
 
+_Team Collaboration_
+
+Having had multiple routes to take on this project each team member had to bring forward an idea and opinion. With each idea the team had to break them down into categories of practicality, affordable, and user centered. Each team member contributed ideas for a user centered project involving the specific requirements and evaluated each other's idea. The team decided upon the mission statement as seen above due to the lack and importance of such a device within the market today. Our goal is to provide a sustainable option for people in need of climate control within their own homes.
+
 ## User Needs, Benchmarking, and Product Requirements
 
 In order to develop the requirements for the product, the team first analyzed the market for current solutions to the problem of accumulating moisture in confined spaces. A majority of the solutions were smart switches that revolved around bathrooms and smart technologies affecting the ventilation and temperature setting systems. The different solutions were analyzed and their top positive and negative reviews were recorded and then evaluated for explicit or latnent user needs. These user needs would then be used for benchmarking the product. Below are the 5 products that were analyzed along side important information and the user needs that were extracted form the positive and negative reviews. 

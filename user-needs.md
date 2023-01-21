@@ -4,70 +4,69 @@ In order to develop the requirements for the product, the team first analyzed th
 
 _**User Needs Evaluation**_
 
-Having gone through different products and customer reviews that target the product statement, Team 202 generated a combined list of User Needs. This list consists of features and needs that customers liked, asked for, or complained about in the product reviews regarding the different multifunction switches above. The generated User Needs can be found below in Figure 1.
+Having gone through different products and customer reviews that target the product statement, Team 202 generated a combined list of User Needs. This list consists of features and needs that customers liked, asked for, or complained about in the product reviews regarding the different multifunction switches above. The generated User Needs can be found below in _**Figure 1**_.
 
 
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/Concept1.jpg" width="60%"><br>
+  Figure 1 - User Needs
+  </div>
+</figure>
 
-Figure 1 - Preliminary User Needs
 
-The next step was to group the user needs into separate categories to develop overarching need statements. The groups can be found in the below Figure 2 and the overarching need statements are highlighted in yellow.
+The next step was to group the user needs into separate categories to develop overarching need statements. The groups can be found in the below _**Figure 2**_ and the overarching need statements are highlighted in yellow.
 
-Figure 2 Organized User Needs
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/UserNeedsWR2.jpg" width="60%"><br>
+  Figure 2 - Overarching needs
+  </div>
+</figure>
 
-Once the User Needs were sectioned off into different categories as seen in Figure 2, each User Need was then ranked from Least Important to Most Important. This ranking can be found in Figure 3.
 
-Figure 3 Ranked User Needs where: ⭐⭐⭐ - Most Important; ⭐⭐ - Important; ⭐ - Least Important
+Once the User Needs were sectioned off into different categories as seen in _**Figure 2**_, each User Need was then ranked from Least Important to Most Important. This ranking can be found in _**Figure 3**_.
 
-Mega Needs
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/UserNeedsWR3.jpg" width="60%"><br>
+  Figure 3 - Ranked User Needs where: ⭐⭐⭐ - Most Important; ⭐⭐ - Important; ⭐ - Least Important
+  </div>
+</figure>
 
-Below is a list of mega needs that the have been found from userr analysis. From these mega needs will stem requirments for our project design.
 
-Interface
+_**Mega Needs**_
+
+Below is a list of mega needs that the have been found from userr analysis. From these mega needs will stem requirments for our project design. All other user needs can be found in Product Analysis Appendix.
+
+_**Interface**_<br>
 ⭐⭐⭐Friendly user interface
 
 ⭐⭐⭐Incorporates human centric interfaces
 
-⭐⭐Built in timer for display
 
-⭐⭐Gauge readout of humidity
+_**Customer Support**_<br>
 
-⭐Touch display
-
-Customer Support
 ⭐⭐⭐Good customer care
 
 ⭐⭐⭐Helpful/detailed manual/instructions
 
-⭐⭐Easy to read
 
-⭐⭐Communicate status clearly
+_**Age friendly**_<br>
 
-⭐⭐Time warranty is reasonable
-
-⭐Short delivery process
-
-Age friendly
 ⭐⭐⭐Kid friendly
 
 ⭐⭐⭐Safe for inexperienced users
 
 ⭐⭐⭐Child proof
 
-Intuitive to operate
+_**Intuitive to operate**_<br> 
+
 ⭐⭐⭐Simple design functionality
 
-⭐⭐ Multi functional
 
-⭐⭐Intuitive
+_**Reliability**_<br>
 
-⭐Acts like a physical switch
-
-Cost
-⭐⭐Relatively inexpensive
-
-⭐Low cost
-
-Reliability
 ⭐⭐⭐Accurate sensory data
 
 ⭐⭐⭐Effective sensors
@@ -82,60 +81,30 @@ Reliability
 
 ⭐⭐⭐Moisture resistant
 
-⭐⭐Cold resistant
 
-⭐⭐Heat resistant
+_**Interoperability**_<br>
 
-⭐⭐Long lifespan
-
-⭐Durable
-
-⭐Wind resistant
-
-⭐Survive high humidity
-
-⭐Corrosive resistant
-
-Interoperability
 ⭐⭐⭐Easy access to control settings
 
 ⭐⭐⭐Does not require additional devices to properly function
 
 ⭐⭐⭐Wiring is adaptable
 
-⭐⭐Easily compatible with third party systems
 
-⭐⭐Works with a variety of different systems and softwares
+_**Energy Efficient**_<br>
 
-⭐⭐Compatible with non-Alexa items
-
-⭐⭐Remote activation
-
-⭐Bluetooth capabilities
-
-⭐LoRa
-
-⭐Compatible with Alexa
-
-Energy Efficient
 ⭐⭐⭐Low power needed
 
-⭐⭐Eco-friendly
 
-⭐Auto switch
+_**Measurement features**_<br>
 
-Measurement features
 ⭐⭐⭐Timer functionality
 
 ⭐⭐⭐Measure precisely, accurately, and sensitively
 
-⭐⭐Motion detection
 
-⭐Pressure measurement
+_**Easy to use**_<br>
 
-⭐Presence detection
-
-Easy to use
 ⭐⭐⭐Fits standard size wall switch outlet
 
 ⭐⭐⭐Easy to mount
@@ -144,32 +113,16 @@ Easy to use
 
 ⭐⭐⭐Easy to power
 
-⭐⭐Easy to handle
 
-⭐⭐Easily integratable
+_**Customizable**_<br>
 
-⭐Easy to program (if required)
-
-⭐Easy to set up
-
-Customizable
 ⭐⭐⭐Adjustable to multiple outlet types
 
 ⭐⭐⭐Incorporates multiple functions
 
-⭐⭐Easily removable
 
-⭐⭐Flexible control settings
+_**Aesthetically pleasing**_<br>
 
-⭐⭐Multiswitch control
-
-⭐Adhesive mount
-
-⭐Keyhole mount
-
-⭐Magnet mount to switch
-
-Aesthetically pleasing
 ⭐⭐⭐Color blends with the rest of the bathroom
 
 ⭐⭐⭐Low profile
@@ -180,10 +133,3 @@ Aesthetically pleasing
 
 ⭐⭐⭐Modern and slim
 
-⭐⭐Lightweight
-
-⭐⭐Not bulky
-
-⭐⭐Color variations
-
-⭐Incorporates colors

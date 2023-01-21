@@ -1,3 +1,5 @@
+# Appendix A: Team Organization
+
 ## Communication Channels
 
 In order to improve communication between team members and in order to better set up meetings and times, **Table 1** found below was filled out by the team members in order to determine any preference in terms of methods of communication.

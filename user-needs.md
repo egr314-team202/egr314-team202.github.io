@@ -43,7 +43,7 @@ The process in which the team tackled this task was simple and productive. With 
 
 ## Mega Needs
 
-Below is a list of mega needs that the have been found from user analysis. From these mega needs will stem requirments for our project design. All other user needs can be found in Appendix B. These needs were decided based on if it follows our goal and if the aspect of the user need was important for user safety or user interaction. 
+Below is a list of mega needs that the have been found from user analysis. From these mega needs will stem requirments for our project design. All other user needs can be found in _**Appendix B**_. These needs were decided based on if it follows our goal and if the aspect of the user need was important for user safety or user interaction. 
 
 _**Interface**_<br>
 ⭐⭐⭐Friendly user interface

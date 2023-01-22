@@ -27,6 +27,7 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Appendix B: User Needs](appendix-b-user-needs)
 ## Resources
 * [Code Repository](https://github.com/egr314-team202/project-code)
+
 ## Project Status
 As of January, 2023, this project is still underway. We will be presenting the final concept at Innovation Showcase on April 28, 2023. Until then, we will continue to push regular updates to this website and it's associated repositories as the project progresses.
 

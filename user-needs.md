@@ -1,4 +1,4 @@
-# User Needs, Benchmarking, and Product Requirements
+# User Needs and Benchmarking
 
 In order to develop the requirements for the product, the team first analyzed the market for current solutions to the problem of accumulating moisture in confined spaces. A majority of the solutions were smart switches that revolved around bathrooms and smart technologies affecting the ventilation and temperature setting systems. The different solutions were analyzed and their top positive and negative reviews were recorded and then evaluated for explicit or latnent user needs. These user needs would then be used for benchmarking the product. As seen in _**Appendix B**_ five products that were analyzed along side important information and the user needs that were extracted form the positive and negative reviews.
 

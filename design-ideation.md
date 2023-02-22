@@ -1,6 +1,6 @@
 # Design Ideation
 
-Before continuing with the design process, the team took some time to brainstorm design concepts on a Jamboard. Each sticky note represented a way to execute a particular aspect of the design like a sensing method or actuation device as seen in **Figure 1**. The team decided it would be more effective to do individual brainstorming rather than group brainstorming due to the time constraints of the assignment as well as each team member having conflicting schedules. The brainstorming session of each member proved successful as each member contributed 25 distinct design ideas to the jamboard for a total of 100 different design ideas. Group brainstorming might have helped generate more unique ideas since members could bounce ideas off of one another and would have been the teams primary option. These ideas were then sorted down into several categories and distilled into three design concepts as seen in **Figure 2** and **Figure 3**. This process was completed by Carlos Chacon and Miguel Chacon. The concepts represented three unique ways to approach the user needs; each with a different combination of technical aspects and specific feature implementations. Finally, in order to best communicate these concepts, the team developed visual representations of them. These depictions will be used further on in the design process to gather feedback and inform future design decisions.
+Before continuing with the design process, the team took some time to brainstorm design concepts on a jamboard. Each sticky note represented a way to execute a particular aspect of the design like a sensing method or actuation device as seen in **Figure 1**. The team decided it would be more effective to do individual brainstorming rather than group brainstorming due to the time constraints of the assignment as well as each team member having conflicting schedules. The brainstorming session of each member proved successful as each member contributed 25 distinct design ideas to the jamboard for a total of 100 different design ideas. Group brainstorming might have helped generate more unique ideas since members could bounce ideas off of one another and would have been the teams primary option. These ideas were then sorted down into several categories and distilled into three design concepts as seen in **Figure 2** and **Figure 3**. This process was completed by Carlos Chacon and Miguel Chacon. The concepts represented three unique ways to approach the user needs; each with a different combination of technical aspects and specific feature implementations. Finally, in order to best communicate these concepts, the team developed visual representations of them. These depictions will be used further on in the design process to gather feedback and inform future design decisions.
 
 ### Step 1: Initial Brainstorming
 <figure class="image">
@@ -41,6 +41,8 @@ The three design concepts are as follows: a multipurpose smart switch (**Figure 
   </div>
 </figure>
 
+Design 1 depicts a more advanced design of what the solution could look like: a multipurpose smart switch. The main concept for this design was a Tesla tablet but for the bathroom. This design is composed of a touch screen where the user can manually control the fan, automate the fan through the timer feature, and check the temperature and humidity of the bathroom. The device also comes with an integrated speaker and bluetooth capabilities if the user wants to listen to some music. There is also a night light to allow for some visibility at night. This meets the user needs of multi-functionality, simplicity, and incorporation of advanced technological features.
+
 ### Design 2
 <figure class="image">
   <div style="text-align: center">
@@ -49,12 +51,16 @@ The three design concepts are as follows: a multipurpose smart switch (**Figure 
   </div>
 </figure>
 
+
+
 <figure class="image">
   <div style="text-align: center">
   <img src="media/DesignIdeationConcept2.1.png" width="100%"><br>
   Figure 5.1 - Practical Switch (cont.)
   </div>
 </figure>
+
+Design 2 depicts a more simplistic approach to meeting the user needs with less features, but still successfully meets the user needs. This design comes with an OLED screen that allows the user to see the temperature and humidity of the bathroom. The device also comes with a timer function, which will allow the user to push a button and have the fan turn on for a set amount of time. The faceplate of the device would also be customizable to make it compatible with a range of bathroom settings. The key feature of this design is that the device is mounted on top of the existing light switch and the switch itself is flipped using a set of servo motors. Furthermore, a fan will be attached to the device that will allow for more accurate temperature and humidity readings. This meets the user needs relating to simplicity, customizability, and functionality.
 
 ### Design 3
 <figure class="image">
@@ -84,5 +90,7 @@ The three design concepts are as follows: a multipurpose smart switch (**Figure 
   Figure 6.3 - Energy Conserver Switch (cont.)
   </div>
 </figure>
+
+Design 3 is similar to design 2, but energy conservation plays a bigger emphasis. Like design 2, design 3 is attached to the existing switch but with a rail design instead. In terms of functionality, the device has a timer dial to control the length of time the fan is on. To conserve power, this design does not include a LCD or OLED screen. There is some loss in functionality since the user will not be able to see what the readings from the humidity and temperature sensors.
 
 [Back to Home](index)

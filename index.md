@@ -23,6 +23,8 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [User Needs and Benchmarking](user-needs)
 ### [Product Requirements](product-requirements)
 ### [Design Ideation](design-ideation)
+### [Block Diagram](block-diagram)
+### [Component Selection](component-selection)
 ### [Presentation 1](presentation-1)
 ### [Appendix A: Team Organization](appendix-a-team-organization)
 ### [Appendix B: User Needs](appendix-b-user-needs)

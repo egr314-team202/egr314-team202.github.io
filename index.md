@@ -20,7 +20,8 @@ Our team is looking to tackle this by developing an automated switch control tha
 ## Table of Contents
 
 ### [Team Organization](team-organization)
-### [User Needs, Benchmarking, and Requirements](user-needs)
+### [User Needs and Benchmarking](user-needs)
+### [Product Requirements](product-requirements)
 ### [Design Ideation](design-ideation)
 ### [Presentation 1](presentation-1)
 ### [Appendix A: Team Organization](appendix-a-team-organization)

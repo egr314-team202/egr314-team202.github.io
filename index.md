@@ -25,6 +25,7 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Design Ideation](design-ideation)
 ### [Block Diagram](block-diagram)
 ### [Component Selection](component-selection)
+### [Software Proposal](software-pruposal)
 ### [Presentation 1](presentation-1)
 ### [Appendix A: Team Organization](appendix-a-team-organization)
 ### [Appendix B: User Needs](appendix-b-user-needs)

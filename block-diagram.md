@@ -8,3 +8,5 @@ The block diagram helps to visualize and understand how all of the individual su
   Figure 1 - Team 202 Block Diagram
   </div>
 </figure>
+
+[Back to Home](index)

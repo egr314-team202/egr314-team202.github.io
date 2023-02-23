@@ -68,3 +68,5 @@ The main reason for choosing this sensor is that it is half the price of the oth
 
 ### Selection Reason
 As our application is going to be powered from a 5V source, option 1, the RT8059GJ5 switching regulator, makes the most sense. It balances current capability, size, and performance, with a minimum amount of external components. At $0.42 each, and a SOT package, it will reduce production costs and minimize the needed space on the PCB. Compared to the other options, this will provide the best results for the team project.
+
+[Back to Home](index)

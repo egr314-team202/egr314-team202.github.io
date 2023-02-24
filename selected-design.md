@@ -11,3 +11,5 @@ The team decided to make a couple of changes to design 2 to better optimize its 
   Figure 1 - Selected Design
   </div>
 </figure>
+
+[Back to Home](index)

@@ -65,28 +65,28 @@ Design 2 depicts a more simplistic approach to meeting the user needs with less 
 ### Design 3
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/DesignIdeationConcept3.png" width="100%"><br>
+  <img src="media/DesignIdeationConcept3.png" width="50%"><br>
   Figure 6.0 - Energy Conserving Switch
   </div>
 </figure>
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/DesignIdeationConcept3.1.png" width="100%"><br>
+  <img src="media/DesignIdeationConcept3.1.png" width="50%"><br>
   Figure 6.1 - Energy Conserving Switch (cont.)
   </div>
 </figure>
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/DesignIdeationConcept3.2.png" width="100%"><br>
+  <img src="media/DesignIdeationConcept3.2.png" width="50%"><br>
   Figure 6.2 - Energy Conserving Switch (cont.)
   </div>
 </figure>
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/DesignIdeationConcept3.3.png" width="100%"><br>
+  <img src="media/DesignIdeationConcept3.3.png" width="50%"><br>
   Figure 6.3 - Energy Conserving Switch (cont.)
   </div>
 </figure>

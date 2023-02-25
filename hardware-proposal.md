@@ -9,6 +9,10 @@ With a big goal in mind the team has been tasked with separate functions within 
     </iframe>
   </body>
 
+The Team Schematic can be found here: [Link](media/314_team_schematic.pdf)
+<br>
+
+Bill Of Materials: [Appendix-E](appendix-e-billofmaterials)
 
 <br> 
 Above can be seen the teams schematic which possesses all onboard components necessary for the proper function of the design. On the left side of the schematic can be seen the Power Regulator, Pic Microcontroller, and the onboard ESP32 which are covered by Lukas Severinghaus. On the right side can be seen the Temperature Sensor, built by Carlos Chacon, the Humidity Sensor, built by Miguel Chacon, and the Motor Controller, Built by Wyatte Ricks. The other sections consist of the interactive buttons, debugging LEDS, and connectors for the I2C programming, OLED display, debug UART, and ICSP. 
@@ -46,6 +50,6 @@ The Motor Controller is in charge of controlling the fan speed and direction. Th
 
 **Cost of Production**
 
-Each subsystem has onboard components used for the design and functionality of the product. The production of one component comes out to be approximately $45. This is important as one of the gaols for our design is to achieve in inexpensive option for customers looking to have a simple instillation process and environmental control unit. All of the on board parts can be fund in [**Appendix E**](appendix-e-billofmaterials) on the home page.  
+Each subsystem has onboard components used for the design and functionality of the product. The cost of production for each unit at a thousand units is approximately $45/unit. This is important as one of the gaols for our design is to achieve in inexpensive option for customers looking to have a simple instillation process and environmental control unit.
 
  [Back To Home](index)

@@ -2,6 +2,14 @@
 
 Having selected the second design concept from the design ideation process, the team created a list of different components that would fulfill both the project requirements and the selected design concept's function. This section will overview the specific components that were selected and the team's reasoning for choosing those components. The complete list of options can be found in **Appendix C**.  
 
+# Microcontroller selection
+The project guidelines specified the team must use a Microchip PIC microcontroller. We selected and compared three different models to evaluate which would work best for our product, and settled on the PIC24FJ64GA702. 
+
+It comes in a 28 pin SOIC package, which is easily solderable, and had the largest program memory of the models we compared. Additionally, having two UART and three I2C peripherals ensures we can accomodate all the sensors and debugging interfaces necessary to ensure a smooth design process.
+
+The complete selection table used for selecting the microcontroller is available in [Appendix D](appendix-d-microcontroller-selection). 
+
+# Component selection
 ## Motor Driver
 
 ### DRV8830DGQR
@@ -69,10 +77,11 @@ The main reason for choosing this sensor is that it is half the price of the oth
 ### Selection Reason
 As our application is going to be powered from a 5V source, option 1, the RT8059GJ5 switching regulator, makes the most sense. It balances current capability, size, and performance, with a minimum amount of external components. At $0.42 each, and a SOT package, it will reduce production costs and minimize the needed space on the PCB. Compared to the other options, this will provide the best results for the team project.
 
-# Microcontroller selection
-The project guidelines specified the team must use a Microchip PIC microcontroller. We selected and compared three different models to evaluate which would work best for our product, and settled on the PIC24FJ64GA702. 
+# Power Budget
+Alongside the component selection process, the team built a power budget table, to ensure that there was sufficient power for all peripherals, actuators, and sensors. To simplify use of the design in a bathroom, we targeted using 5V for the main system power and 3.3V for logic. With a 5V 3A power source, we found we had sufficient available power, with margin, to power all the systems. 
 
-It comes in a 28 pin SOIC package, which is easily solderable, and had the largest program memory of the models we compared. Additionally, having two UART and three I2C peripherals ensures we can accomodate all the sensors and debugging interfaces necessary to ensure a smooth design process.
+The power budget table is shown below (also available directly [here](media/Power-Budget.pdf)):
+<iframe src="media/Power-Budget.pdf" width="100%" height="500px"></iframe>
 
-The complete selection table used for selecting the microcontroller is available in [Appendix D](appendix-d-microcontroller-selection). 
+
 [Back to Home](index)

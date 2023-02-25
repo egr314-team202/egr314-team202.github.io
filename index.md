@@ -35,6 +35,12 @@ Our team is looking to tackle this by developing an automated switch control tha
 ## Resources
 * [Code Repository](https://github.com/egr314-team202/project-code)
 
+
+## Checkpoint 1 Presentation
+Below is a recording of the team's checkpoint 1 presentation, where we reviewed the design concepts and initial concept ideation. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYfvdtbThY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Project Status
-As of January, 2023, this project is still underway. We will be presenting the final concept at Innovation Showcase on April 28, 2023. Until then, we will continue to push regular updates to this website and it's associated repositories as the project progresses.
+As of February, 2023, this project is still underway. We will be presenting the final concept at Innovation Showcase on April 28, 2023. Until then, we will continue to push regular updates to this website and it's associated repositories as the project progresses.
 

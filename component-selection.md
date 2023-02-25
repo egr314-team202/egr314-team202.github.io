@@ -7,7 +7,7 @@ Having selected the second design concept from the design ideation process, the 
 ### DRV8830DGQR
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/MotorDriver.png" width="100%"><br>
+  <img src="media/MotorDriver.png" width="50%"><br>
   Figure 1 - DRV8830DGQR
   </div>
 </figure>
@@ -20,7 +20,7 @@ With the goal of our project being power efficiency and having an inexpensive pr
 ### SERVOMOTOR RC 4.8V
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/ServoMotor.png" width="100%"><br>
+  <img src="media/ServoMotor.png" width="50%"><br>
   Figure 2 - SERVOMOTOR RC 4.8V
   </div>
 </figure>
@@ -35,7 +35,7 @@ With the goal of our project being power efficiency and having an inexpensive pr
 ### CTC74A4-3.3VCTTR
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/TC74.png" width="100%"><br>
+  <img src="media/TC74.png" width="50%"><br>
   Figure 3 - TC74A4-3.3VCTTR
   </div>
 </figure>
@@ -48,7 +48,7 @@ With the goal of our project being power efficiency and having an inexpensive pr
 ### HIH6030-021-001
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/HumiditySensor.png" width="100%"><br>
+  <img src="media/HumiditySensor.png" width="50%"><br>
   Figure 4 - HIH6030-021-001
   </div>
 </figure>
@@ -61,7 +61,7 @@ The main reason for choosing this sensor is that it is half the price of the oth
 ### RT8059GJ5
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/PowerRegulator.png" width="100%"><br>
+  <img src="media/PowerRegulator.png" width="50%"><br>
   Figure 5 - RT8059GJ5
   </div>
 </figure>

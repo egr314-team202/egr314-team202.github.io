@@ -31,7 +31,7 @@ Harlow went onto Amazon and couldn't find anything that could attach to his alre
 
 # Aspects
 
-With these important aspects in mind when it comes to customer satisfaction and effective quality some requirements must be met. 
+With the high valued user needs mentioned in the [User Needs](user-needs) section, the project scope has specific requirements based on these needs. Each sections below takes in consideration the desired user experience but also taking in account safety and overall appealing design. These are important for the design process as it will guide the process of development in the right direction. 
 
  1. _**Hardware/Product Design**_
 

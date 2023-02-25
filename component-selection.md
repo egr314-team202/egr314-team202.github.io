@@ -1,9 +1,16 @@
 # Introduction
 
-Having selected the second design concept from the design ideation process, the team created a list of different components that would fulfill both the project requirements and the selected design concept's function. This section will overview the specific components that were selected and the team's reasoning for choosing those components. The complete list of options can be found in **Appendix C**.  
+Having selected the second design concept from the design ideation process, the team created a list of different components that would fulfill both the project requirements and the selected design concept's function. This section will overview the specific components that were selected and the team's reasoning for choosing those components. The complete list of options can be found in [Appendix C](appendix-c-component-selection).  
 
 # Microcontroller selection
 The project guidelines specified the team must use a Microchip PIC microcontroller. We selected and compared three different models to evaluate which would work best for our product, and settled on the PIC24FJ64GA702. 
+
+<figure class="image">
+  <div style="text-align: center">
+  <img src="media/PIC.png" width="50%"><br>
+  Figure 1 - PIC24FJ64GA702
+  </div>
+</figure>
 
 It comes in a 28 pin SOIC package, which is easily solderable, and had the largest program memory of the models we compared. Additionally, having two UART and three I2C peripherals ensures we can accommodate all the sensors and debugging interfaces necessary to ensure a smooth design process.
 

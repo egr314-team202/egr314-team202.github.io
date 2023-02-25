@@ -9,4 +9,6 @@ The block diagram helps to visualize and understand how all of the individual su
   </div>
 </figure>
 
+### Individual Subsystem
+
 [Back to Home](index)

@@ -5,7 +5,7 @@ Having selected the second design concept from the design ideation process, the 
 # Microcontroller selection
 The project guidelines specified the team must use a Microchip PIC microcontroller. We selected and compared three different models to evaluate which would work best for our product, and settled on the PIC24FJ64GA702. 
 
-It comes in a 28 pin SOIC package, which is easily solderable, and had the largest program memory of the models we compared. Additionally, having two UART and three I2C peripherals ensures we can accomodate all the sensors and debugging interfaces necessary to ensure a smooth design process.
+It comes in a 28 pin SOIC package, which is easily solderable, and had the largest program memory of the models we compared. Additionally, having two UART and three I2C peripherals ensures we can accommodate all the sensors and debugging interfaces necessary to ensure a smooth design process.
 
 The complete selection table used for selecting the microcontroller is available in [Appendix D](appendix-d-microcontroller-selection). 
 
@@ -23,7 +23,7 @@ The complete selection table used for selecting the microcontroller is available
 ### Selection Reason
 With the goal of our project being power efficiency and having an inexpensive product this motor controller provides efficient power distribution and an inexpensive option. Along with this comes the importance of flexibility when a motor may not work as planned.
 
-## Motor
+## Motors
 
 ### SERVOMOTOR RC 4.8V
 <figure class="image">
@@ -32,11 +32,15 @@ With the goal of our project being power efficiency and having an inexpensive pr
   Figure 2 - SERVOMOTOR RC 4.8V
   </div>
 </figure>
+ <figure class="image">
+  <div style="text-align: center">
+  <img src="media/Fan.png" width="50%"><br>
+  Figure 3 - OD4010-05HB
+  </div>
+</figure>
 
 ### Selection Reason
-...
-
-
+With the solenoid's inability to produce sufficient force to turn the switch on/off, the servo motor (DOES NOT MEET REQUIREMENTS but approved by Dr. Aukes) is essential for carrying out this function. In order to meet project requirements, the fan will be used to apply variable speed control and direction for dependent states of the sensors present within the system. The fan will keep moisture out of the board and allow for more accurate sensor measurements.
 
 ## Temperature Sensor
 
@@ -44,7 +48,7 @@ With the goal of our project being power efficiency and having an inexpensive pr
 <figure class="image">
   <div style="text-align: center">
   <img src="media/TC74.png" width="50%"><br>
-  Figure 3 - TC74A4-3.3VCTTR
+  Figure 4 - TC74A4-3.3VCTTR
   </div>
 </figure>
 
@@ -57,7 +61,7 @@ With the goal of our project being power efficiency and having an inexpensive pr
 <figure class="image">
   <div style="text-align: center">
   <img src="media/HumiditySensor.png" width="50%"><br>
-  Figure 4 - HIH6030-021-001
+  Figure 5 - HIH6030-021-001
   </div>
 </figure>
 
@@ -70,7 +74,7 @@ The main reason for choosing this sensor is that it is half the price of the oth
 <figure class="image">
   <div style="text-align: center">
   <img src="media/PowerRegulator.png" width="50%"><br>
-  Figure 5 - RT8059GJ5
+  Figure 6 - RT8059GJ5
   </div>
 </figure>
 

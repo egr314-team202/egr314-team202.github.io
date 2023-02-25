@@ -31,7 +31,7 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Presentation 1](presentation-1)
 ### [Appendix A: Team Organization](appendix-a-team-organization)
 ### [Appendix B: User Needs](appendix-b-user-needs)
-### [Appendix C: TODO]()
+### [Appendix C: Component Selection](appendix-c-component-selection)
 ### [Appendix D: Microcontroller Selection Table](appendix-d-microcontroller-selection)
 ### [Appendix E: Bill of Materials](appendix-e-billofmaterials)
 

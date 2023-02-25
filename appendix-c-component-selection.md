@@ -2,7 +2,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/MD_1.png" width="100%"><br>
+  <img src="media/MD_1.png" width="50%"><br>
   Figure 1 - AM4962GHTR-G1
   </div>
 </figure>
@@ -23,7 +23,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/MD_2.png" width="100%"><br>
+  <img src="media/MD_2.png" width="50%"><br>
   Figure 2 - DRV8830DGQR
   </div>
 </figure>
@@ -43,7 +43,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/MD_3.png" width="100%"><br>
+  <img src="media/MD_3.png" width="50%"><br>
   Figure 3 - L298P
   </div>
 </figure>
@@ -61,7 +61,7 @@
 
 ## Motors
   <div style="text-align: center">
-  <img src="media/Fan.png" width="100%"><br>
+  <img src="media/Fan.png" width="50%"><br>
   </div>
   Figure 4 - OD4010-05HB
 </figure>
@@ -82,7 +82,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/ServoMotor.png" width="100%"><br>
+  <img src="media/ServoMotor.png" width="50%"><br>
   Figure 5 - SER0006 - Servo Motor
   </div>
 </figure>
@@ -102,7 +102,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/M_3.png" width="100%"><br>
+  <img src="media/M_3.png" width="50%"><br>
   Figure 6 - DSOS-0416-05D
   </div>
 </figure>
@@ -131,8 +131,7 @@
 
 ## Temperature Sensors
   <div style="text-align: center">
-  Table 3 - Potential Temperature Sensors
-  <img src="media/TC74.png" width="100%"><br>
+  <img src="media/TC74.png" width="50%"><br>
   Figure 7 - TC74A4-3.3VCTTR
   </div>
 </figure>
@@ -158,7 +157,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/TS_2.png" width="100%"><br>
+  <img src="media/TS_2.png" width="50%"><br>
   Figure 8 - MAX6630MUT-T
   </div>
 </figure>
@@ -184,7 +183,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/TS_3.png" width="100%"><br>
+  <img src="media/TS_3.png" width="50%"><br>
   Figure 9 - TMP112BIDRLR
   </div>
 </figure>
@@ -211,8 +210,7 @@
 
 ## Humidity Sensors
   <div style="text-align: center">
-  Table 4 - Potential Humidity Sensors
-  <img src="media/HumiditySensor.png" width="100%"><br>
+  <img src="media/HumiditySensor.png" width="50%"><br>
   Figure 10 - HIH6130-021-001
   </div>
 </figure>
@@ -237,7 +235,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/HS_2.png" width="100%"><br>
+  <img src="media/HS_2.png" width="50%"><br>
   Figure 11 - HIH6030-021-001
   </div>
 </figure>
@@ -261,7 +259,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/HS_3.png" width="100%"><br>
+  <img src="media/HS_3.png" width="50%"><br>
   Figure 12 - HIH6131-021-001
   </div>
 </figure>
@@ -288,8 +286,7 @@
 
 ## 3.3V Power Regulators
   <div style="text-align: center">
-  Table 5 - Potential Power Regulators
-  <img src="media/PowerRegulator.png" width="100%"><br>
+  <img src="media/PowerRegulator.png" width="50%"><br>
   Figure 13 - RT8059GJ5
   </div>
 </figure>
@@ -310,7 +307,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/PR_2.png" width="100%"><br>
+  <img src="media/PR_2.png" width="50%"><br>
   Figure 14 - PAM2401SCADJ
   </div>
 </figure>
@@ -333,7 +330,7 @@
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/PR_3.png" width="100%"><br>
+  <img src="media/PR_3.png" width="50%"><br>
   Figure 15 - MPQ4558DN
   </div>
 </figure>

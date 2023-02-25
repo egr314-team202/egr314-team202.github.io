@@ -2,11 +2,7 @@
 
 With a big goal in mind the team has been tasked with separate functions within the building process of the product. Each team ember has been given a complex set of parts called subsystems to debug and build within the teams concept. These subsystems consist of the Microcontroller, Temperature Sensor, Humidity Sensor, and the Motor Controller. Each is an important part for the overall functionality of the design. The Microcontroller will be incharge of communication via web and I2C Channels. The I2C Channels will be in comunication with the Temperature Sensor, Humidity Sensor, and the Motor Controller. The other subsystems will be in communication with the Microcontroller for key operations such as producing an efficient Temperature and Humidity Sensory environment for proper ventilation. The Motor Controller subsystem is in charge of controlling the duration and status of the onboard and present areas ventilation system. Each of these subsystems can be seen bellow in Figures 1 - _. 
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title of the document</title>
-  </head>
+
   <body>
     <h1>Team PCB Schematic</h1>
     <iframe src="media/314_team_schematic.pdf" width="100%" height="500px">

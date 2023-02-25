@@ -1,6 +1,8 @@
 # Introduction
 
-Having selected the second design concept from the design ideation process, the team created a list of different components that would fulfill both the project requirements and the selected design concept's function. This section will overview the specific components that were selected and the team's reasoning for choosing those components. The complete list of options can be found in [Appendix C](appendix-c-component-selection).  
+Having selected the second design concept from the design ideation process, the team created a list of different components that would fulfill both the project requirements and the selected design concept's function. This section will overview the specific components that were selected and the team's reasoning for choosing those components. The complete list of options can be found in [Appendix C](appendix-c-component-selection). 
+
+_*All selected and researched components that will be attached to the board are surface mount*_
 
 # Microcontroller selection
 The project guidelines specified the team must use a Microchip PIC microcontroller. We selected and compared three different models to evaluate which would work best for our product, and settled on the PIC24FJ64GA702. 

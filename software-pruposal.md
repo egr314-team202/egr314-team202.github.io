@@ -45,3 +45,5 @@ Within the main loop also rests the Interrupt Service Routine as seen in Figure 
 </figure>
 
 Finally within the software lies the State Functions seen in Figure 4. Dependent on the temp of humidity of the present area the Process auto mode will determine the state of the ventilation system. This is achieved by the small movements within the design using a servo motor to turn the switch "on" or "off". Along with the servo motor function the Fan will be operating in direction with what the humidity and or temperature within the area is to allow lower probability of over heating or short circuiting due to water present within the electrical components. Other functions such as the Process timer mode will either turn the motor on or off due to the state of the clock set for ventilation operation. Along with the Off Mode which simply turns the system off. 
+
+Home: [Link](index)

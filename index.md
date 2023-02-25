@@ -27,10 +27,11 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Block Diagram](block-diagram)
 ### [Component Selection](component-selection)
 ### [Software Proposal](software-pruposal)
+### [Hardware Proposal](hardware-pruposal)
 ### [Presentation 1](presentation-1)
 ### [Appendix A: Team Organization](appendix-a-team-organization)
 ### [Appendix B: User Needs](appendix-b-user-needs)
-### [Appendix C: TODO](#)
+### [Appendix C: Bill of Materials](appendix-c-billofmaterials)
 ### [Appendix D: Microcontroller Selection Table](appendix-d-microcontroller-selection)
 
 ## Resources

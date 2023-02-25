@@ -51,3 +51,5 @@ The Motor Controller is in charge of controlling the fan speed and direction. Th
 **Cost of Production**
 
 As seen in the team schematic there are a lot of onboard components used for the design and functionality of the product. The production of one component comes out to be approximately $45. This is important as the one of the gaols for our design is to achieve in inexpensive option for customers looking to have a simple instillation process and environmental control unit. All of the on board parts can be fund in [**Appendix C**](appendix-c-billofmaterials) on the home page. The cost seen above on the document is for 1 total unit. 
+
+Home: [Link](index)

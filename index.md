@@ -30,6 +30,8 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Presentation 1](presentation-1)
 ### [Appendix A: Team Organization](appendix-a-team-organization)
 ### [Appendix B: User Needs](appendix-b-user-needs)
+### [Appendix C: TODO](#)
+### [Appendix D: Microcontroller Selection Table](appendix-d-microcontroller-selection)
 ## Resources
 * [Code Repository](https://github.com/egr314-team202/project-code)
 

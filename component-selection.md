@@ -69,4 +69,10 @@ The main reason for choosing this sensor is that it is half the price of the oth
 ### Selection Reason
 As our application is going to be powered from a 5V source, option 1, the RT8059GJ5 switching regulator, makes the most sense. It balances current capability, size, and performance, with a minimum amount of external components. At $0.42 each, and a SOT package, it will reduce production costs and minimize the needed space on the PCB. Compared to the other options, this will provide the best results for the team project.
 
+# Microcontroller selection
+The project guidelines specified the team must use a Microchip PIC microcontroller. We selected and compared three different models to evaluate which would work best for our product, and settled on the PIC24FJ64GA702. 
+
+It comes in a 28 pin SOIC package, which is easily solderable, and had the largest program memory of the models we compared. Additionally, having two UART and three I2C peripherals ensures we can accomodate all the sensors and debugging interfaces necessary to ensure a smooth design process.
+
+The complete selection table used for selecting the microcontroller is available in [Appendix D](appendix-d-microcontroller-selection). 
 [Back to Home](index)

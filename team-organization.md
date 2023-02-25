@@ -10,11 +10,16 @@ After meeting together and discussing each team member's individual goals and ou
 
 ## Team Charter
 
-As a result of the collective team goals and outcomes listed above, Team 202’s charter is: to collaborate and support one another in the development and creation of a visually appealing design that implements the team’s skills and knowledge of embedded systems, conforms to user needs, and incorporates an intuitive, human centric interface in order to produce a successful project with a practical application. 
+As a result of the collective team goals and outcomes listed above, Team 202’s charter is: 
+<blockquote>
+to collaborate and support one another in the development and creation of a visually appealing design that implements the team’s skills and knowledge of embedded systems, conforms to user needs, and incorporates an intuitive, human centric interface in order to produce a successful project with a practical application. 
+</blockquote>
 
 ## Mission Statement
 
+<blockquote>
 This team’s mission is to design and build a switch retrofit device that uses environmental sensing and embedded systems to provide an economic and health solution to solve the accumulation of moisture in confined spaces.
+</blockquote>
 
 ## Project Description
 

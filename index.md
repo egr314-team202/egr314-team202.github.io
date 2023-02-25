@@ -32,6 +32,7 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Appendix B: User Needs](appendix-b-user-needs)
 ### [Appendix C: TODO](#)
 ### [Appendix D: Microcontroller Selection Table](appendix-d-microcontroller-selection)
+
 ## Resources
 * [Code Repository](https://github.com/egr314-team202/project-code)
 

@@ -9,7 +9,7 @@ With a big goal in mind the team has been tasked with separate functions within 
     </iframe>
   </body>
 
-The Team Schematic can be found here: [Link](314_team_schematic.pdf)
+The Team Schematic can be found here: [Link](media/314_team_schematic.pdf)
 <br>
 
 Bill Of Materials: [Appendix-E](appendix-e-billofmaterials)

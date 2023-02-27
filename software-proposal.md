@@ -1,8 +1,8 @@
 # Software Proposal
 
-For the further progress of our team design we need a blueprint of the software used within our system. To lower the time and debugging of code a diagramed plan for coding our system will allow less error and more time for hardware designing. Below is the in-depth understanding of how our software will run to produce the user friendly outcome we plan to achieve. 
+For the further progress of our team design we need a blueprint of the software used within our system. To lower the time and debugging of code a diagramed plan for coding our system will allow less error and more time for hardware designing. Below is the in-depth understanding of how our software will run to produce the user friendly outcome we plan to achieve.
 
- ## Software Functionality
+## Software Functionality
 
 To equip ourselves with success we put together these blocks of important detail in functionality of system code. The Main Loop, which holds all important functions and variables, displays many key components to how we will achieve smooth functionality and proper user response. Within this main loop is the Initialization of the important variables, internal peripherals, and communication channels. As mentioned within the main loop are components such as the interrupt system and functions. The Interrupt Service Routine is key to establishing proper routine of communication between I2C channels with chips like the Motor Controller or the Temp and Humidity Sensor. These will be in connection to properly control the already installed ventilation system and the on board fan built within our design. These interrupts will be within the State Functions that are the state of how each component will react and function within the product. Each of these described aspects of the software design are shown below in **Figures 1** through **4**.
 

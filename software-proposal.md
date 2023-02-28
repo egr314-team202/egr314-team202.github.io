@@ -10,7 +10,7 @@ To equip ourselves with success we put together these blocks of important detail
   <div style="text-align: center">
   <img src="media/SPML1.png" width="80%"><br>
 
-  **Figure 1** - Main Loop
+  Figure 1 - Main Loop
   
   </div>
 </figure>
@@ -22,7 +22,7 @@ Shown above in **Figure 1** is the Main Loop of our software. Within the main lo
   <div style="text-align: center">
   <img src="media/SPIS.png" width="50%"><br>
 
-  **Figure 2** - Initialize System
+  Figure 2 - Initialize System
 
   </div>
 </figure>
@@ -33,7 +33,7 @@ For the main loop to properly initiate certain functions and read data the initi
   <div style="text-align: center">
   <img src="media/SPISR.png" width="%"><br>
 
-  **Figure 3** - Interrupt Service Routine
+  Figure 3 - Interrupt Service Routine
   
   </div>
 </figure>
@@ -44,7 +44,7 @@ Within the main loop also rests the Interrupt Service Routine as seen in **Figur
   <div style="text-align: center">
   <img src="media/SPSP.png" width="%"><br>
 
-  Figure 4: - State Functions
+  Figure 4 - State Functions
   
   </div>
 </figure>

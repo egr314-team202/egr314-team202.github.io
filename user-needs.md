@@ -14,7 +14,7 @@ Having gone through different products and customer reviews that target the prod
 **Figure 1** - User Needs
 
   </div>
-</figure>
+</figure
 
 
 The next step was to group the user needs into separate categories to develop overarching need statements. The groups can be found in the below _**Figure 2**_ and the overarching need statements are highlighted in yellow.
@@ -23,7 +23,7 @@ The next step was to group the user needs into separate categories to develop ov
   <div style="text-align: center">
   <img src="media/UserNeedsWR2.jpg" width="60%"><br>
 
-**Figure 2** - Overarching needs
+**Figure2** - Overarching needs
 
   </div>
 </figure>
@@ -35,7 +35,7 @@ Once the User Needs were sectioned off into different categories as seen in _**F
   <div style="text-align: center">
   <img src="media/UserNeedsWR3.jpg" width="60%"><br>
 
-**Figure 3** - Ranked User Needs where: ⭐⭐⭐ - Most Important; ⭐⭐ - Important; ⭐ - Least Important
+**Figure3** - Ranked User Needs where: ⭐⭐⭐ - Most Important; ⭐⭐ - Important; ⭐ - Least Important
 
   </div>
 </figure>

@@ -1,10 +1,10 @@
 # User Needs and Benchmarking
 
-In order to develop the requirements for the product, the team first analyzed the market for current solutions to the problem of accumulating moisture in confined spaces. A majority of the solutions were smart switches that revolved around bathrooms and smart technologies affecting the ventilation and temperature setting systems. The different solutions were analyzed and their top positive and negative reviews were recorded and then evaluated for explicit or latnent user needs. These user needs would then be used for benchmarking the product. As seen in _**Appendix B**_ five products that were analyzed along side important information and the user needs that were extracted form the positive and negative reviews.
+In order to develop the requirements for the product, the team first analyzed the market for current solutions to the problem of accumulating moisture in confined spaces. A majority of the solutions were smart switches that revolved around bathrooms and smart technologies affecting the ventilation and temperature setting systems. The different solutions were analyzed and their top positive and negative reviews were recorded and then evaluated for explicit or latent user needs. These user needs would then be used for benchmarking the product. As seen in _**Appendix B**_ five products that were analyzed along side important information and the user needs that were extracted form the positive and negative reviews.
 
 ## User Needs Evaluation
 
-Having gone through different products and customer reviews that target the product statement, Team 202 generated a combined list of User Needs. This list consists of features and needs that customers liked, asked for, or complained about in the product reviews regarding the different multifunction switches above. The generated User Needs can be found below in _**Figure 1**_.
+Having gone through different products and customer reviews that target the product statement, Team 202 generated a combined list of User Needs. This list consists of features and needs that customers liked, asked for, or complained about in the product reviews regarding the different multifunction switches above. The generated User Needs can be found below in **Figure 1**.
 
 
 <figure class="image">
@@ -14,7 +14,7 @@ Having gone through different products and customer reviews that target the prod
 **Figure 1** - User Needs
 
   </div>
-</figure
+</figure>
 
 
 The next step was to group the user needs into separate categories to develop overarching need statements. The groups can be found in the below _**Figure 2**_ and the overarching need statements are highlighted in yellow.

@@ -11,7 +11,8 @@ Having gone through different products and customer reviews that target the prod
   <div style="text-align: center">
   <img src="media/Concept1.jpg" width="60%"><br>
 
-  _**Figure 1**_ - User Needs
+**Figure 1** - User Needs
+
   </div>
 </figure>
 
@@ -22,7 +23,8 @@ The next step was to group the user needs into separate categories to develop ov
   <div style="text-align: center">
   <img src="media/UserNeedsWR2.jpg" width="60%"><br>
 
-  _**Figure 2**_ - Overarching needs
+**Figure 2** - Overarching needs
+
   </div>
 </figure>
 
@@ -33,7 +35,8 @@ Once the User Needs were sectioned off into different categories as seen in _**F
   <div style="text-align: center">
   <img src="media/UserNeedsWR3.jpg" width="60%"><br>
 
-  _**Figure 3**_ - Ranked User Needs where: ⭐⭐⭐ - Most Important; ⭐⭐ - Important; ⭐ - Least Important
+**Figure 3** - Ranked User Needs where: ⭐⭐⭐ - Most Important; ⭐⭐ - Important; ⭐ - Least Important
+
   </div>
 </figure>
 

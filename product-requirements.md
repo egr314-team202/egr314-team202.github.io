@@ -15,7 +15,8 @@ _**Homeowners**_ - Looking for a way to lower energy costs and mitigate the pote
 _**Tenants**_ - Looking for a way to connect their home without altering existing wiring, lower energy costs, and prevent potential damages due to humidity and moisture in confined spaces.
 
 _**Bathroom users**_ - Looking for an easy way to turn on the fan for a set period of time, without needing to come back to turn it off.
-Renters - Looking for a way to reduce overall energy consumption and avoid having to deal with the hassle of humidity and moisture related damages.
+
+_**Renters**_ - Looking for a way to reduce overall energy consumption and avoid having to deal with the hassle of humidity and moisture related damages.
 
 _**Use Cases**_
 

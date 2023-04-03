@@ -4,7 +4,7 @@ The block diagram helps to visualize and understand how all of the individual su
 ### Current Block Diagram
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/Team202_Block_Diagram.png" width="100%"><br>
+  <img src="media/Team202BlockDiagram.png" width="100%"><br>
   Figure 1 - Team 202 Block Diagram
   </div>
 </figure>

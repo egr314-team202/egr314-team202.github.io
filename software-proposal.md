@@ -42,7 +42,7 @@ Within the main loop also rests the Interrupt Service Routine as seen in **Figur
 
 <figure class="image">
   <div style="text-align: center">
-  <img src="media/SPSP.png" width="%"><br>
+  <img src="media/SPSF.png" width="%"><br>
 
   Figure 4 - State Functions
   

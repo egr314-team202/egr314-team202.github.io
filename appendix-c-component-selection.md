@@ -19,6 +19,7 @@
 
 ### Cons
 - Can only buy in bulk of 4000
+- Datasheet says "Not Recommended for New Design"
 <br>
 
 <figure class="image">
@@ -39,6 +40,7 @@
 
 ### Cons
 - Low output voltage
+- Extremely small size
 <br>
 
 <figure class="image">
@@ -58,6 +60,7 @@
 
 ### Cons
 - Expensive
+- Not a serial driver
 
 ## Motors
   <div style="text-align: center">
@@ -78,6 +81,7 @@
 
 ### Cons
 - Expensive for a small component
+- Pulls too much current
 <br>
 
 <figure class="image">
@@ -98,6 +102,7 @@
 
 ### Cons
 - Not linear in movement 
+- Not the highest quality
 <br>
 
 <figure class="image">
@@ -256,6 +261,7 @@
 
 ### Cons
 - Less accurate than the other two options by 0.5% RH
+- Does not have a built-in filter
 
 <figure class="image">
   <div style="text-align: center">

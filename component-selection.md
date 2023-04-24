@@ -93,7 +93,7 @@ As our application is going to be powered from a 5V source, option 1, the RT8059
 # Power Budget
 Alongside the component selection process, the team built a power budget table, to ensure that there was sufficient power for all peripherals, actuators, and sensors. To simplify use of the design in a bathroom, we targeted using 5V for the main system power and 3.3V for logic. With a 5V 3A power source, we found we had sufficient available power, with margin, to power all the systems. 
 
-The power budget table is shown below (also available directly [here](media/Power-Budget.pdf)):
+The power budget table is shown below (also available directly [here](media/Team 202 Power Budget V2.pdf)):
 <iframe src="media/Team 202 Power Budget V2.pdf" width="100%" height="500px"></iframe>
 
 

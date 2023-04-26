@@ -38,3 +38,5 @@ At the bottom left of the pcb is a female micro USB connector with a power regul
 
 ## Motor Driver
 Right above the humidity and temperature is the motor driver which runs both the servo motor and the fan. To satisfy project requirements, the motor driver is able ot run both the servo motor and fan and communicate through I2C to control the speed of the fan.
+
+[Back To Home](index)

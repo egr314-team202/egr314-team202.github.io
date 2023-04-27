@@ -29,7 +29,7 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Software Proposal](software-proposal)
 ### [Final Software Implementation](final-software-implementation)
 ### [Hardware Proposal](hardware-proposal)
-### [Final Hardware Implementation](final-hardware-implmentation)
+### [Final Hardware Implementation](final-hardware-implementation)
 ### [Presentation 1](presentation-1)
 ### [Appendix A: Team Organization](appendix-a-team-organization)
 ### [Appendix B: User Needs](appendix-b-user-needs)

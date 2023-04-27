@@ -15,14 +15,14 @@ Below is the final team PCB schematic showing the temperature, humidity, motor d
 
 <body>
     <h1>Final Team PCB Front Design</h1>
-    <iframe src="media/PCB-design-front.jpg" width="100%" height="1000px">
+    <iframe src="media/PCB-design-front.jpg" width="200%" height="1000px">
     </iframe>
   </body>
   NOTE: The motor driver pads are covered in soldermask. For the final product, the layer of soldermask was removed from each pad and the motor driver was attached.
 
 <body>
     <h1>Final Team PCB Back Design</h1>
-    <iframe src="media/PCB-design-back.jpg" width="100%" height="1000px">
+    <iframe src="media/PCB-design-back.jpg" width="200%" height="1000px">
     </iframe>
   </body>
 

@@ -14,7 +14,7 @@ Below is the final team PCB schematic showing the temperature, humidity, motor d
   </body>
 
 <body>
-    <h1>Final Team PCB Front Design</h1>
+    <h1>Final Team PCB Front and Back Design</h1>
     <iframe src="media/PCB-photos-final.pdf" width="100%" height="500px">
     </iframe>
   </body>

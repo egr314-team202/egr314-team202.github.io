@@ -17,15 +17,16 @@ Use the resources available to you for help. There are so many great resources a
 Make clear objectives for each assignment. The team would split each task amongst each other in order to simplify the tasks. Making sure everyone knew what they were supposed to be working on gave everyone a sense of purpose on the team, which helped moral but also made each assignment easier in the end.
 
 ## Lesson 6
-
+Use every available resource to check your schematic. The team spent a lot of time focusing on optimizing and verifying the schematic. By breaking it into small, easily manageable parts, and by checking it with several TAs and Dr. Aukes, we were able to eliminate most of the big errors in the board. Despite this, one or two small issues still crept through, but we were able to mitigate them by making small changes. 
 
 ## Lesson 7
-
+Don't assume that parts will work together by default. The team initially connected the OLED display to the PIC, however we only realized several weeks later that the PIC didn't have a library to drive the display, and that the ESP32 was much better suited to the task. We also didn't know until we tested our PIC that the I2C peripheral was completely different than the one we used previously in the class, so we had to spend significant amounts of time rebuilding the driver. 
 
 ## Lesson 8
-
+Optimize time where you can. One specific way we did this was by purchasing our PCB separately, and by also purchasing a solder stencil. Because we didn't have to wait for our board to get batched with other team boards, we received our PCBs a week in advance of the class. Additionally, the solder stencil reduced the amount of time it took to apply solder paste on the pads and assemble the board. Instead of spending 6+ hours to populate the 92 components on our board, the stencil helped reduce this down to 2 hours. 
 
 ## Lesson 9
-
+If you see a small error, fix it now. We encountered several issues with sourcing components, but by keeping a close eye on what orders had been placed and where components were, we were able to minimize the delays missing parts could have caused. We also made sure to address every issue in our alpha board in our final team board. We also worked with some other teams who didn't address seemingly small power supply issues early on, and this caused much larger issues farther down the road.  
 
 ## Lesson 10
+When there's more than one microcontroller, do the hard tasks on the microcontroller that's easiest to program. Our project involved a significant amount of parsing and conversion of data types, like converting MQTT payloads into data for the PIC, and unpacking PIC values for displaying on the OLED screen. By doing most of this work on the ESP32, which was written in Python, we were able to speed up development, instead of writing it in C on the PIC. Micropython makes it a lot easier to manipulate types, dynamically build objects, and interface with hardware than the PIC. Leveraging this helped us have a functional project much earlier on than if we had only used the PIC. 

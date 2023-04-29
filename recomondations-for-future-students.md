@@ -15,3 +15,7 @@ When programming a component invest time and or money into a logic analyzer. Usi
 
 ## Tip 5
 Always ask questions because sometimes the assignment given hasn't been updated or ahs more requirements than listed. Always be talking with the teaching team and with other students. If someone has something functioning don't just ask for what they did, ask for how they did it so that can be used later on with your components. Everyone is under the same pressure and understands the struggle
+
+<br>
+
+[Back to Home](index)

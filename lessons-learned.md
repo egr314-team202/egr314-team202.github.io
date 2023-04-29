@@ -30,3 +30,7 @@ If you see a small error, fix it now. We encountered several issues with sourcin
 
 ## Lesson 10
 When there's more than one microcontroller, do the hard tasks on the microcontroller that's easiest to program. Our project involved a significant amount of parsing and conversion of data types, like converting MQTT payloads into data for the PIC, and unpacking PIC values for displaying on the OLED screen. By doing most of this work on the ESP32, which was written in Python, we were able to speed up development, instead of writing it in C on the PIC. Micropython makes it a lot easier to manipulate types, dynamically build objects, and interface with hardware than the PIC. Leveraging this helped us have a functional project much earlier on than if we had only used the PIC. 
+
+<br> 
+
+[Back to Home](index)

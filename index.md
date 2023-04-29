@@ -30,7 +30,7 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Final Software Implementation](final-software-implementation)
 ### [Final Hardware Implementation](final-hardware-implementation)
 ### [Lessons Learned](lessons-learned)
-### [Recomondations For Future Students](recomondations-for-future-students)
+### [Recommendations For Future Students](recommendations-for-future-students)
 ### [Appendix A: Team Organization](appendix-a-team-organization)
 ### [Appendix B: User Needs](appendix-b-user-needs)
 ### [Appendix C: Component Selection](appendix-c-component-selection)

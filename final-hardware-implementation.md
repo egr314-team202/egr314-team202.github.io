@@ -33,7 +33,7 @@ The PCB also includes several connectors that serve for debugging and programmin
 <br>
 
 ## Buttons
-The pcb includes a total of five buttons. Three of which act as interrupts for setting the system into the off, auto, and timer modes. The fourth button is for hard resetting the ESP32 and the fifth button is the boot loader for the ESP32.
+The PCB includes a total of five buttons. Three of which act as interrupts for setting the system into the off, auto, and timer modes. The fourth button is for hard resetting the ESP32 and the fifth button is the boot loader for the ESP32.
 
 ## Sensors
 The humidity and temperature sensor are located in the bottom right corner of the PCB, which is where the fan controlled using I2C would be located. This would allow the fan to bring in air from the external environment, which would allow the sensors to receive accurate data without affecting the rest of the pcb components.
@@ -42,7 +42,7 @@ The humidity and temperature sensor are located in the bottom right corner of th
 At the bottom left of the pcb is a female micro USB connector with a power regulator, which allows the system to be easily powered with 5V using a micro usb cable and then set down to 3.3V for all the sensors and logic components.
 
 ## Motor Driver
-Right above the humidity and temperature is the motor driver which runs both the servo motor and the fan. To satisfy project requirements, the motor driver is able ot run both the servo motor and fan and communicate through I2C to control the speed of the fan.
+Right above the humidity and temperature is the motor driver which runs both the servo motor and the fan. To satisfy project requirements, the motor driver is able ot run both the servo motor and fan and communicate through I2C to control the speed of the fan. While the motor driver the team chose fit the project requirements and performed well, the team noted that a bigger sized motor driver would be more beneficial the next time as it would be easier to solder the component onto pads of a bigger size.
 
 # Version 2.0
 

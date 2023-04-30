@@ -5,7 +5,7 @@ title: Home
 # EGR314 Team 202: Humidity and Temperature Sensing Project Website
 **Team members:** Carlos Chacon, Miguel Chacon, Wyatte Ricks, Lukas Severinghaus
 
-**Last Updated:** January 25, 2023
+**Last Updated:** April 30, 2023
 
 Welcome to the project website for Team 202! This project was undertaken as part of EGR 314, Embedded Systems Design 2, in the Spring 2023 semester, taught by Dr. Daniel Aukes, at Arizona State University on the Polytechnic Campus.
 
@@ -47,5 +47,4 @@ Below is a recording of the team's checkpoint 1 presentation, where we reviewed 
 
 
 ## Project Status
-As of February, 2023, this project is still underway. We will be presenting the final concept at Innovation Showcase on April 28, 2023. Until then, we will continue to push regular updates to this website and it's associated repositories as the project progresses.
-
+As of April 30, 2023, this project is complete. We presented the final concept at Innovation Showcase on April 28, 2023. All final resources and code have been posted on this website and the code repository. 

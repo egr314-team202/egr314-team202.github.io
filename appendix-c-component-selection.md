@@ -9,6 +9,8 @@
 
 ### Cost
 - $0.37/each
+<br>
+
 ### [Datasheet](https://www.diodes.com/assets/Datasheets/products_inactive_data/AM4962.pdf)
 
 ### [Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/AM4962GHTR-G1/7724835)

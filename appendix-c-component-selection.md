@@ -137,6 +137,7 @@
 <br>
 
 ## Temperature Sensors
+<figure class = "image">
   <div style="text-align: center">
   <img src="media/TC74.png" width="50%"><br>
   Figure 7 - TC74A4-3.3VCTTR
@@ -216,6 +217,7 @@
 <br>
 
 ## Humidity Sensors
+<figure class = "image">
   <div style="text-align: center">
   <img src="media/HumiditySensor.png" width="50%"><br>
   Figure 10 - HIH6130-021-001
@@ -293,6 +295,7 @@
 <br>
 
 ## 3.3V Power Regulators
+<figure class = "image">
   <div style="text-align: center">
   <img src="media/PowerRegulator.png" width="50%"><br>
   Figure 13 - RT8059GJ5

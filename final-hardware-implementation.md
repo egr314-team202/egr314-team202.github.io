@@ -52,6 +52,6 @@ The team did not really experience many difficulties with the current hardware d
 
 # Final Bill of Materials
 
-The final bill of materials is located in Appendix E, which you can get to by clicking on this [link](appendix-e-billofmaterials).
+The final bill of materials is located in Appendix E, which can be found here [link](appendix-e-billofmaterials).
 
 [Back To Home](index)

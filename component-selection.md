@@ -25,7 +25,7 @@ The complete selection table used for selecting the microcontroller is available
 <figure class="image">
   <div style="text-align: center">
   <img src="media/MotorDriver.png" width="50%"><br>
-  Figure 1 - DRV8830DGQR
+  Figure 2 - DRV8830DGQR
   </div>
 </figure>
 
@@ -38,13 +38,13 @@ With the goal of our project being power efficiency and having an inexpensive pr
 <figure class="image">
   <div style="text-align: center">
   <img src="media/ServoMotor.png" width="50%"><br>
-  Figure 2 - SERVOMOTOR RC 4.8V
+  Figure 3 - SERVOMOTOR RC 4.8V
   </div>
 </figure>
  <figure class="image">
   <div style="text-align: center">
   <img src="media/Fan.png" width="50%"><br>
-  Figure 3 - OD4010-05HB
+  Figure 4 - OD4010-05HB
   </div>
 </figure>
 
@@ -57,7 +57,7 @@ With the solenoid's inability to produce sufficient force to turn the switch on/
 <figure class="image">
   <div style="text-align: center">
   <img src="media/TC74.png" width="50%"><br>
-  Figure 4 - TC74A4-3.3VCTTR
+  Figure 5 - TC74A4-3.3VCTTR
   </div>
 </figure>
 
@@ -70,7 +70,7 @@ With the solenoid's inability to produce sufficient force to turn the switch on/
 <figure class="image">
   <div style="text-align: center">
   <img src="media/HumiditySensor.png" width="50%"><br>
-  Figure 5 - HIH6030-021-001
+  Figure 6 - HIH6030-021-001
   </div>
 </figure>
 
@@ -83,7 +83,7 @@ The main reason for choosing this sensor is that it is half the price of the oth
 <figure class="image">
   <div style="text-align: center">
   <img src="media/PowerRegulator.png" width="50%"><br>
-  Figure 6 - RT8059GJ5
+  Figure 7 - RT8059GJ5
   </div>
 </figure>
 

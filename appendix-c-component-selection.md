@@ -35,6 +35,8 @@
 
 ### Cost
 - $2.41/each
+<br>
+
 ### [Datasheet](https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8830)
 ### [Digikey](https://www.digikey.com/en/products/detail/texas-instruments/DRV8830DGQR/2520903)
 
@@ -60,6 +62,8 @@
 
 ### Cost
 - $12.75/each
+<br>
+
 ### [Datasheet](https://www.st.com/content/ccc/resource/technical/document/datasheet/82/cc/3f/39/0a/29/4d/f0/CD00000240.pdf/files/CD00000240.pdf/jcr:content/translations/en.CD00000240.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/stmicroelectronics/L298P/585919)
 <br>
@@ -84,6 +88,8 @@
 
 ### Cost
 - $12.36/each
+<br>
+
 ### [Datasheet](https://media.digikey.com/pdf/Data%20Sheets/Orion%20Fans%20PDFs/OD4010.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/orion-fans/OD4010-05HB/2621106)
 <br>
@@ -109,6 +115,8 @@
 
 ### Cost
 - $3.62/each
+<br>
+
 ### [Datasheet](https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/SER0006_Web.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/dfrobot/SER0006/7597224?utm_adgroup=Motors%20-%20AC%2C%20DC&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Motors%2C%20Solenoids%2C%20Driver%20Boards%2FModules_NEW&utm_term=&utm_content=Motors%20-%20AC%2C%20DC&gclid=Cj0KCQiA8t2eBhDeARIsAAVEga1tQ2_MRK_ZuvTBrZQFvAZVM4fVOh2YmjY9mBGSyuwMvR2cvRgFpOMaAoY_EALw_wcB)
 <br> 
@@ -133,6 +141,8 @@
 
 ### Cost
 - $3.30/each
+<br>
+
 ### [Datasheet](https://www.farnell.com/datasheets/3035560.pdf)
 ### [Digikey](https://www.newark.com/delta/dsos-0416-05d/linear-solenoid-5vdc-3-3w/dp/76AH8218)
 <br>
@@ -166,6 +176,8 @@
 
 ### Cost
 - $1.09/each
+<br>
+
 ### [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/21462D.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)
 <br>
@@ -195,6 +207,8 @@
 
 ### Cost
 - $2.75/each
+<br>
+
 ### [Datasheet](https://rocelec.widen.net/view/pdf/jxqayngxhf/MAXMS10478-1.pdf?t.download=true&u=5oefqw)
 ### [Digikey](https://www.digikey.com/en/products/detail/rochester-electronics-llc/MAX6630MUT-T/12104653)
 <br>
@@ -224,6 +238,8 @@
 
 ### Cost
 - $2.41/each
+<br>
+
 ### [Datasheet](https://media.digikey.com/pdf/Data%20Sheets/UTD%20Semi%20PDFs/TMP112B.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/umw/TMP112BIDRLR/16705925)
 <br>
@@ -255,6 +271,8 @@
 
 ### Cost
 - $22.98/each
+<br>
+
 ### [Datasheet](https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/en-us/products/sensors/humidity-with-temperature-sensors/honeywell-humidicon-hih6100-series/documents/sps-siot-humidicon-hih6100-series-product-sheet-009059-6-en-ciid-142165.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6130-021-001/2704701)
 <br>
@@ -283,6 +301,8 @@
 
 ### Cost
 - $13.98/each
+<br>
+
 ### [Datasheet](https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/en-us/products/sensors/humidity-with-temperature-sensors/honeywell-humidicon-hih6000-series/documents/sps-siot-hih6000-datasheet-009073-7-en-ciid-147070.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6030-021-001/4291625)
 <br>
@@ -312,6 +332,8 @@
 
 ### Cost
 - $24.61/each
+<br>
+
 ### [Datasheet](https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/en-us/products/sensors/humidity-with-temperature-sensors/honeywell-humidicon-hih6100-series/documents/sps-siot-humidicon-hih6100-series-product-sheet-009059-6-en-ciid-142165.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6131-021-001/2704702)
 <br>
@@ -343,6 +365,8 @@
 
 ### Cost
 - $0.42/each
+<br>
+
 ### [Datasheet](https://www.richtek.com/assets/product_file/RT8059/DS8059-06.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/richtek-usa-inc/RT8059GJ5/2546006)
 <br>
@@ -367,6 +391,8 @@
 
 ### Cost
 - $1.04/each
+<br>
+
 ### [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2401.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/PAM2401SCADJ/4898817)
 <br>
@@ -393,6 +419,8 @@
 
 ### Cost
 - $3.65/each
+<br>
+
 ### [Datasheet](https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MPQ4558-AEC1/document_id/3864)
 ### [Digikey](https://www.digikey.com/en/products/detail/monolithic-power-systems-inc/MPQ4558DN-LF-Z/5293016)
 <br>

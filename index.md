@@ -29,6 +29,7 @@ Our team is looking to tackle this by developing an automated switch control tha
 ### [Presentation 1](presentation-1)
 ### [Final Software Implementation](final-software-implementation)
 ### [Final Hardware Implementation](final-hardware-implementation)
+### [System Verification](system-verification)
 ### [Lessons Learned](lessons-learned)
 ### [Recommendations For Future Students](recommendations-for-future-students)
 ### [Appendix A: Team Organization](appendix-a-team-organization)

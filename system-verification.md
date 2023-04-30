@@ -10,3 +10,5 @@ In order to easily identify which components of the final board were correctly s
 
 ### Note:
 The squares annotated with "nc" represent components that are "not connected" with each other and therefore do not require verification. 
+
+[Back to Home](index)

@@ -49,9 +49,13 @@ One final ISR is called on a 1Hz timer and it serves to count down the clock in 
 ## Changes to software design
 
 1) **Simplification of the inbound serial protocol.** Initially, we designed a multi byte communication protocol with a start and end byte, that would ensure reliable communication from the ESP32 to the PIC. This proved too difficult to implement as we encountered issue parsing multiple bytes reliably on the PIC. Instead, we moved to a simplified one byte protocol, where three state of the byte could indicate a mode change, and a range of other states would indicate a change in the timer count, see Figure 3. 
+  
 2) **Moving the OLED display from the PIC to the ESP32.** At the start of the project, we anticipated driving the OLED display from the PIC, however we moved it to be driven by the ESP32 as the Micropython library was much easier to use. This simplified control of the display and abstracted it to a simple API. 
+   
 3) **Controlling the servo.** We chose to use a RC servo to control the light switch, however we were not able to get the PIC's PWM module to function properly for our application. Instead of struggling with it further, we adjusted our software design to bit bang the servo control, which worked well enough for our application.
+   
 4) **Incrementing time behavior.** We initially designed the user interface to increment time by 5 minutes, snapping to the nearest increment when the timer button was pressed for the first time. However, in practice, this was incredibly unintuitive. Instead, we simplified the controls to just add 5 minutes to the current timer. Without the time snapping, the interface became much easier to navigate.  
+   
 5) **Controller hysteresis.** We first thought about using a bang-bang controller to actuate the light switch. This made sense from a control perspective as we had a binary output, however the base bang-bang controller would degrade due to noise in the sensor measurements around the setpoint. To combat this, we added hysteresis to the controller, to turn on the switch and fan at an upper setpoint and turn it off at a lower setpoint. This prevents the system from oscillating as the sensors move around a single setpoint.
 
 ## Future potential changes

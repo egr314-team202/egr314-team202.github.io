@@ -14,13 +14,11 @@
 ### [Datasheet](https://www.diodes.com/assets/Datasheets/products_inactive_data/AM4962.pdf)
 
 ### [Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/AM4962GHTR-G1/7724835)
-
 <br>
 
 ### Pros
 - 3.5V to 16V 
 - Used for single phase motors
-
 <br>
 
 ### Cons
@@ -46,7 +44,6 @@
 - 5V to 20V
 - Supports a wide range of motors
 - Minimizes power dissipation
-
 <br>
 
 ### Cons
@@ -65,19 +62,16 @@
 - $12.75/each
 ### [Datasheet](https://www.st.com/content/ccc/resource/technical/document/datasheet/82/cc/3f/39/0a/29/4d/f0/CD00000240.pdf/files/CD00000240.pdf/jcr:content/translations/en.CD00000240.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/stmicroelectronics/L298P/585919)
-
 <br>
 
 ### Pros
 - Drives relays, solenoids, DC and stepper motors
 - 4.5V to 7V
-
 <br>
 
 ### Cons
 - Expensive
 - Not a serial driver
-
 <br>
 
 ## Motors
@@ -92,7 +86,6 @@
 - $12.36/each
 ### [Datasheet](https://media.digikey.com/pdf/Data%20Sheets/Orion%20Fans%20PDFs/OD4010.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/orion-fans/OD4010-05HB/2621106)
-
 <br>
 
 ### Pros
@@ -100,7 +93,6 @@
 - 5V supply
 - 10.5mm wide
 - Variable speed control
-
 <br>
 
 ### Cons
@@ -119,14 +111,12 @@
 - $3.62/each
 ### [Datasheet](https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/SER0006_Web.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/dfrobot/SER0006/7597224?utm_adgroup=Motors%20-%20AC%2C%20DC&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Motors%2C%20Solenoids%2C%20Driver%20Boards%2FModules_NEW&utm_term=&utm_content=Motors%20-%20AC%2C%20DC&gclid=Cj0KCQiA8t2eBhDeARIsAAVEga1tQ2_MRK_ZuvTBrZQFvAZVM4fVOh2YmjY9mBGSyuwMvR2cvRgFpOMaAoY_EALw_wcB)
-
 <br> 
 
 ### Pros
 - 4.5V with a working current of less than 500mA
 - Small enough for a confined space
 - Operational in -30 to +60 Celsius
-
 <br>
 
 ### Cons
@@ -145,7 +135,6 @@
 - $3.30/each
 ### [Datasheet](https://www.farnell.com/datasheets/3035560.pdf)
 ### [Digikey](https://www.newark.com/delta/dsos-0416-05d/linear-solenoid-5vdc-3-3w/dp/76AH8218)
-
 <br>
 
 ### Pros
@@ -158,7 +147,6 @@
 - DSOS Series
 - Intermittent
 - Push
-
 <br>
 
 ### Cons
@@ -180,7 +168,6 @@
 - $1.09/each
 ### [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/21462D.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)
-
 <br>
 
 ### Pros
@@ -192,7 +179,6 @@
 - ±2℃ Accuracy
 - Currently Have in Storage 
 - Easy Wiring
-
 <br>
 
 ### Cons
@@ -211,7 +197,6 @@
 - $2.75/each
 ### [Datasheet](https://rocelec.widen.net/view/pdf/jxqayngxhf/MAXMS10478-1.pdf?t.download=true&u=5oefqw)
 ### [Digikey](https://www.digikey.com/en/products/detail/rochester-electronics-llc/MAX6630MUT-T/12104653)
-
 <br>
 
 ### Pros
@@ -223,7 +208,6 @@
 - In-Stock
 - Digital
 - Can be shipped in 4 days
-
 <br>
 
 ### Cons
@@ -242,7 +226,6 @@
 - $2.41/each
 ### [Datasheet](https://media.digikey.com/pdf/Data%20Sheets/UTD%20Semi%20PDFs/TMP112B.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/umw/TMP112BIDRLR/16705925)
-
 <br>
 
 ### Pros
@@ -255,7 +238,6 @@
 - In Stock
 - Can Ship Immediately 
 - Easy Wiring
-
 <br>
 
 ### Cons
@@ -275,7 +257,6 @@
 - $22.98/each
 ### [Datasheet](https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/en-us/products/sensors/humidity-with-temperature-sensors/honeywell-humidicon-hih6100-series/documents/sps-siot-humidicon-hih6100-series-product-sheet-009059-6-en-ciid-142165.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6130-021-001/2704701)
-
 <br>
 
 ### Pros
@@ -285,14 +266,12 @@
 - Output type: I2C
 - Extensive datasheet with Typical application circuit examples
 - Meets project requirements
-
 <br>
 
 ### Cons
 - Very expensive
 - Smaller operating temperature 
 (-25C to 85C)
-
 <br>
 
 <figure class="image">
@@ -306,7 +285,6 @@
 - $13.98/each
 ### [Datasheet](https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/en-us/products/sensors/humidity-with-temperature-sensors/honeywell-humidicon-hih6000-series/documents/sps-siot-hih6000-datasheet-009073-7-en-ciid-147070.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6030-021-001/4291625)
-
 <br>
 
 ### Pros
@@ -318,13 +296,11 @@
 - Extensive datasheet
 - Meets project requirements
 - Wide operating temperature range (-40C to 100C)
-
 <br>
 
 ### Cons
 - Less accurate than the other two options by 0.5% RH
 - Does not have a built-in filter
-
 <br>
 
 <figure class="image">
@@ -338,7 +314,6 @@
 - $24.61/each
 ### [Datasheet](https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/en-us/products/sensors/humidity-with-temperature-sensors/honeywell-humidicon-hih6100-series/documents/sps-siot-humidicon-hih6100-series-product-sheet-009059-6-en-ciid-142165.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6131-021-001/2704702)
-
 <br>
 
 ### Pros
@@ -350,7 +325,6 @@
 - In stock, no lead time
 - Extensive datasheet
 - Meets project requirements
-
 <br>
 
 ### Cons
@@ -371,14 +345,12 @@
 - $0.42/each
 ### [Datasheet](https://www.richtek.com/assets/product_file/RT8059/DS8059-06.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/richtek-usa-inc/RT8059GJ5/2546006)
-
 <br>
 
 ### Pros
 - 1A output power
 - Small size
 - 1.5MHz switching frequency
-
 <br>
 
 ### Cons
@@ -397,7 +369,6 @@
 - $1.04/each
 ### [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2401.pdf)
 ### [Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/PAM2401SCADJ/4898817)
-
 <br>
 
 ### Pros
@@ -405,7 +376,6 @@
 - Step up for battery operation
 - Adjustable 2.5-5V output
 - 0.9V minimum input voltage
-
 <br>
 
 ### Cons
@@ -425,7 +395,6 @@
 - $3.65/each
 ### [Datasheet](https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MPQ4558-AEC1/document_id/3864)
 ### [Digikey](https://www.digikey.com/en/products/detail/monolithic-power-systems-inc/MPQ4558DN-LF-Z/5293016)
-
 <br>
 
 ### Pros
@@ -433,7 +402,6 @@
 - Wide input voltage, 3.8-55V
 - SOIC package
 - 2MHz switching frequency
-
 <br>
 
 ### Cons
